@@ -1,7 +1,7 @@
  - 👋 Hi, I’m @Keteraf
  - 👀 I’m interested in science, music and of course programming 
- - 🌱 I’ve 10+ years of experience in PHP and I'm currently learning Java (Spring framework)
- - 💞️ I’m looking to collaborate on some php or Java projects
+ - 🌱 I’ve 10+ years of experience in web development (mainly PHP) and I'm currently learning Java (Spring framework)
+ - 💞️ I’m looking to collaborate on some PHP or Java projects
 
 <!---
 Keteraf/Keteraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
